@@ -1,0 +1,3 @@
+Relacion M/N: migracion crear nueva tabla  minuscula orden alfabetico empleado_proyecto   id empleado_id proyecto_id
+fecha inicio fechafin modelo empleado belonstomany(proyectos)
+modelo proyecto belongstomany(empleados) 
